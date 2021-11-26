@@ -1,1 +1,1 @@
-C:\Dev\AOC\rust-course\target\debug\rust-course.exe: C:\Dev\AOC\rust-course\src\main.rs
+C:\Dev\AdventOfCode\rust-course\target\debug\rust-course.exe: C:\Dev\AdventOfCode\rust-course\src\main.rs
