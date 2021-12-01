@@ -1,1 +1,1 @@
-C:\Dev\AdventOfCode\rust-course\target\debug\rust-course.exe: C:\Dev\AdventOfCode\rust-course\src\main.rs
+C:\Users\Stijn\Documents\Coding\Advent\ Of\ Code\AdventOfCode\rust-course\target\debug\rust-course.exe: C:\Users\Stijn\Documents\Coding\Advent\ Of\ Code\AdventOfCode\rust-course\src\lesson3.rs C:\Users\Stijn\Documents\Coding\Advent\ Of\ Code\AdventOfCode\rust-course\src\main.rs

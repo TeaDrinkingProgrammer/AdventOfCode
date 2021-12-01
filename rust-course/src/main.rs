@@ -1,5 +1,7 @@
+use crate::lesson3::ownership;
 use core::cmp::Ordering;
 use std::cmp::Ord;
+mod lesson3;
 fn main() {
     say_hello();
     say_my_name();
@@ -11,6 +13,7 @@ fn main() {
     generics();
     option();
     result();
+    ownership();
 }
 
 fn say_hello() {
