@@ -83,13 +83,13 @@ fn exercise3(){
     let mut x : isize = 0;
     let mut y : isize = 0;
     //Loop doesn't work yet
-    loop {
-        if &x + 3 < slope_vector.len().try_into().unwrap() && &y + 1 < slope_vector[x].len().try_into().unwrap() {
-            &mut x += 3;
-            &mut y += 1;
-           if slope_vector[&x][&y] {
-                amount_of_trees += 1;
-           }
-        }
-    }
+    // loop {
+    //     if &x + 3 < slope_vector.len().try_into().unwrap() && &y + 1 < slope_vector[x].len().try_into().unwrap() {
+    //         &mut x += 3;
+    //         &mut y += 1;
+    //        if slope_vector[&x][&y] {
+    //             amount_of_trees += 1;
+    //        }
+    //     }
+    // }
 }
